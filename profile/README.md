@@ -1,9 +1,31 @@
-## What is AWFixer Systems?
+# AWFixer Systems
 
-AWFixer Systems is as far up stream as you can go when it comes to the Operating Systems developed and or maintained by AWFixer
+## Information About AWFixer Systems
 
-this organization also contains a collections of modified operating systems that are used on AWFixer's Personal Devices
+AwFixer Systems 
 
-Please check the license of all of the repos before you redistribute them as there is information there that you need to be aware of
+# Table of Contents
 
-if you have questions or concerns please join my [Discord](https://discord.gg/awfixer)
+- [Project Title](#awfixer-systems)
+- [Information about AWFixer Systems](#information-about-awfixer-systems)
+- [Table of Contents](#table-of-contents)
+- [Background](#background)
+- [Development](#development)
+- [Contribute](#contribute)
+- [Funding](#funding)
+- [License](#license)
+
+# Background
+[(Back to top)](#table-of-contents)
+
+# Development
+[(Back to top)](#table-of-contents)
+
+# Contribute
+[(Back to top)](#table-of-contents)
+
+# Funding
+[(Back to top)](#table-of-contents)
+
+# License
+[(Back to top)](#table-of-contents)
